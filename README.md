@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @nwohater
-- 🌱 I’m currently learning Vue/Quasar
+- 🌱 Going back to MVC via .net core!
+- 
 
 
 
