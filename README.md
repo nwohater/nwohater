@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nwohater
 - 🌱 Going back to MVC via .net core!
-
+- Oof, now I'm hooked on SwiftUI
 
 
 
