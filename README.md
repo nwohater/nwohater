@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nwohater
-- 🌱 SvelteKit has me in it's grasp.
-- Learning Go at the moment.
+- 🌱 Blazor is fun.
+
 
 
 
