@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nwohater
-- 🌱 Blazor is fun.
+- 🌱 Currently working on learning Flutter.
 
 
 
