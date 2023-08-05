@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nwohater
-- 🌱 Currently working on learning Flutter.
+- 🌱 Flutter Developer
 
 
 
